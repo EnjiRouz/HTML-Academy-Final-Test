@@ -1,4 +1,7 @@
 # HTML-Academy-Final-Test
+
+Try it here: https://enjirouz.github.io/HTML-Academy-Final-Test/
+
 The decision of the final task on the layout Landing page for HTML Academy using HTML+CSS
 The page contains: 
 1. Promo part with main menu 
